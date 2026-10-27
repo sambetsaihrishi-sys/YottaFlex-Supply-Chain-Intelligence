@@ -1,0 +1,17 @@
+{
+  "project": "YottaFlex Supply Chain Intelligence",
+  "data_type": "Synthetic",
+  "generator": "src.data_generator",
+  "seed": 20261022,
+  "planning_year": 2026,
+  "baseline": {
+    "skus": 3000,
+    "locations": 50,
+    "suppliers": 500,
+    "weeks": 52,
+    "purchase_orders": 10000
+  },
+  "external_data_sources": [],
+  "personal_data_used": false,
+  "provenance": "Programmatically generated synthetic supply chain records"
+}

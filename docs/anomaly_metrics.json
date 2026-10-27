@@ -1,0 +1,13 @@
+{
+    "total_cases": 8,
+    "true_positives": 4,
+    "true_negatives": 4,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "false_positive_rate": 0.0,
+    "issue_classification_accuracy": 1.0
+}

@@ -1,0 +1,218 @@
+{
+    "seed": 20261022,
+    "datasets_checked": 26,
+    "first_run": {
+        "sku.csv": {
+            "rows": 3000,
+            "sha256": "5c1b55ce5207894b24eb4d26daf8240b25a7b3619b32e0794a4012df583e15d8"
+        },
+        "location.csv": {
+            "rows": 50,
+            "sha256": "a5013030e2adf9ada9aa1218d726ad92fd7c1a72487d42e8909b72dc0419c9ec"
+        },
+        "supplier.csv": {
+            "rows": 500,
+            "sha256": "ed2b493bf66f7eae5a2aa732bedd5f8ea49aaa718e21f8e4c853e5d7580086b7"
+        },
+        "forecast_demand.csv": {
+            "rows": 468000,
+            "sha256": "4a481e5b7c1c87dde7a47489d7a8057e5500a6783702c10a2ebffcecce9cdecf"
+        },
+        "inventory.csv": {
+            "rows": 9000,
+            "sha256": "c6b3ead36b759a083b2d65f9f2c124e3d80287c510100194e6280549d231abcb"
+        },
+        "supplier_sku.csv": {
+            "rows": 6000,
+            "sha256": "6655e3fd4af9ecdf82122976b8885b5a0bfd59d1b99b1de70a4b0fcfc3022d10"
+        },
+        "supplier_capacity.csv": {
+            "rows": 312000,
+            "sha256": "b676dd524e85415d300c9ad8927099077ecce713a4b3e254b35bae98ca3c2f46"
+        },
+        "lead_time.csv": {
+            "rows": 6000,
+            "sha256": "8cae75b125077d27124561b5e1993f25b9edcc65851dd15cc3bfcc8f6a3823a0"
+        },
+        "purchase_order.csv": {
+            "rows": 10000,
+            "sha256": "fa8737b13ed345d1d0a304d809a7e9576bd5d9522a8b1ca7d4a1a692de577232"
+        },
+        "bom.csv": {
+            "rows": 278,
+            "sha256": "a55902f2220feffbab845619db19ec70710a8ca327bc7493dff21baaaccf1e07"
+        },
+        "production_plan.csv": {
+            "rows": 7228,
+            "sha256": "e43e4d1a7c994a5b571d190054a414596869229daf9a2ad96b5973de3ad62f39"
+        },
+        "production_capacity.csv": {
+            "rows": 7228,
+            "sha256": "5089997486e54eb0ee517e17a950ff8370cea3687f596114370a69dd8d5cbbbe"
+        },
+        "projected_inventory.csv": {
+            "rows": 468000,
+            "sha256": "4667c5bcfd8e08af906e15b64139230aa0f009ed90d39f4d01c15c736098f514"
+        },
+        "shortage.csv": {
+            "rows": 402296,
+            "sha256": "5574ce8e0bf536b1664916700be2f971fd2ea37aec3d890d7a8719c6f4ff9ec0"
+        },
+        "mitigation_option.csv": {
+            "rows": 804592,
+            "sha256": "5e478da3bb29fc58b6154a8700f4e719214f2466bfeabd0ae33773565a43861f"
+        },
+        "production_feasibility.csv": {
+            "rows": 7228,
+            "sha256": "39455fad1c35db1b64c2f031687641552c93596bc86cd3d3fcade6ebebbfd10a"
+        },
+        "component_requirements.csv": {
+            "rows": 14456,
+            "sha256": "e9c054d3d131ac30e68d5caaf26d1c80d799fdde2559706487157a6eecc93722"
+        },
+        "capacity_allocation.csv": {
+            "rows": 99173,
+            "sha256": "6fd8dcedbc8e79635e0954f4755800757124e3abbc76d75a3db0ee767acf8a66"
+        },
+        "allocation_validation.csv": {
+            "rows": 312000,
+            "sha256": "9d2d30f6b6800fa45737df8b944cc01a0b80fee21420787de34f476052a55e28"
+        },
+        "material_allocation.csv": {
+            "rows": 7228,
+            "sha256": "036dc16bb340c45ff562205da45a5f2a0f33064e153c22d221aef892629924dc"
+        },
+        "ground_truth.csv": {
+            "rows": 5,
+            "sha256": "c7ab2d489d35a393ac1586327721d362550ef6e2b3b8b6e5122d292ceff748d8"
+        },
+        "anomalies/anomaly_cases.csv": {
+            "rows": 5,
+            "sha256": "15174d8f4e64153ff0b1f89b3ff3fbd419739c55de27d819d6e3720f9e011498"
+        },
+        "anomalies/detection_results.csv": {
+            "rows": 5,
+            "sha256": "b59552d5b588d0c71c76d9e880805a55758bebcbe1178a5484a8bc703a770cd4"
+        },
+        "anomalies/evaluation_input.csv": {
+            "rows": 8,
+            "sha256": "5a9d2d5662240810db65b992e12c2f12ebf5a90116bc4bc124722fec10e10b98"
+        },
+        "anomalies/evaluation_ground_truth.csv": {
+            "rows": 8,
+            "sha256": "f1487e538cbc516d445e604b1c24295b18df73e57e7f7919912887bd3cd95bda"
+        },
+        "anomalies/evaluation_predictions.csv": {
+            "rows": 8,
+            "sha256": "0dd6f8edbb786c161983319b0177957adc4426b68346f11b3bce63d483209b04"
+        }
+    },
+    "second_run": {
+        "sku.csv": {
+            "rows": 3000,
+            "sha256": "5c1b55ce5207894b24eb4d26daf8240b25a7b3619b32e0794a4012df583e15d8"
+        },
+        "location.csv": {
+            "rows": 50,
+            "sha256": "a5013030e2adf9ada9aa1218d726ad92fd7c1a72487d42e8909b72dc0419c9ec"
+        },
+        "supplier.csv": {
+            "rows": 500,
+            "sha256": "ed2b493bf66f7eae5a2aa732bedd5f8ea49aaa718e21f8e4c853e5d7580086b7"
+        },
+        "forecast_demand.csv": {
+            "rows": 468000,
+            "sha256": "4a481e5b7c1c87dde7a47489d7a8057e5500a6783702c10a2ebffcecce9cdecf"
+        },
+        "inventory.csv": {
+            "rows": 9000,
+            "sha256": "c6b3ead36b759a083b2d65f9f2c124e3d80287c510100194e6280549d231abcb"
+        },
+        "supplier_sku.csv": {
+            "rows": 6000,
+            "sha256": "6655e3fd4af9ecdf82122976b8885b5a0bfd59d1b99b1de70a4b0fcfc3022d10"
+        },
+        "supplier_capacity.csv": {
+            "rows": 312000,
+            "sha256": "b676dd524e85415d300c9ad8927099077ecce713a4b3e254b35bae98ca3c2f46"
+        },
+        "lead_time.csv": {
+            "rows": 6000,
+            "sha256": "8cae75b125077d27124561b5e1993f25b9edcc65851dd15cc3bfcc8f6a3823a0"
+        },
+        "purchase_order.csv": {
+            "rows": 10000,
+            "sha256": "fa8737b13ed345d1d0a304d809a7e9576bd5d9522a8b1ca7d4a1a692de577232"
+        },
+        "bom.csv": {
+            "rows": 278,
+            "sha256": "a55902f2220feffbab845619db19ec70710a8ca327bc7493dff21baaaccf1e07"
+        },
+        "production_plan.csv": {
+            "rows": 7228,
+            "sha256": "e43e4d1a7c994a5b571d190054a414596869229daf9a2ad96b5973de3ad62f39"
+        },
+        "production_capacity.csv": {
+            "rows": 7228,
+            "sha256": "5089997486e54eb0ee517e17a950ff8370cea3687f596114370a69dd8d5cbbbe"
+        },
+        "projected_inventory.csv": {
+            "rows": 468000,
+            "sha256": "4667c5bcfd8e08af906e15b64139230aa0f009ed90d39f4d01c15c736098f514"
+        },
+        "shortage.csv": {
+            "rows": 402296,
+            "sha256": "5574ce8e0bf536b1664916700be2f971fd2ea37aec3d890d7a8719c6f4ff9ec0"
+        },
+        "mitigation_option.csv": {
+            "rows": 804592,
+            "sha256": "5e478da3bb29fc58b6154a8700f4e719214f2466bfeabd0ae33773565a43861f"
+        },
+        "production_feasibility.csv": {
+            "rows": 7228,
+            "sha256": "39455fad1c35db1b64c2f031687641552c93596bc86cd3d3fcade6ebebbfd10a"
+        },
+        "component_requirements.csv": {
+            "rows": 14456,
+            "sha256": "e9c054d3d131ac30e68d5caaf26d1c80d799fdde2559706487157a6eecc93722"
+        },
+        "capacity_allocation.csv": {
+            "rows": 99173,
+            "sha256": "6fd8dcedbc8e79635e0954f4755800757124e3abbc76d75a3db0ee767acf8a66"
+        },
+        "allocation_validation.csv": {
+            "rows": 312000,
+            "sha256": "9d2d30f6b6800fa45737df8b944cc01a0b80fee21420787de34f476052a55e28"
+        },
+        "material_allocation.csv": {
+            "rows": 7228,
+            "sha256": "036dc16bb340c45ff562205da45a5f2a0f33064e153c22d221aef892629924dc"
+        },
+        "ground_truth.csv": {
+            "rows": 5,
+            "sha256": "c7ab2d489d35a393ac1586327721d362550ef6e2b3b8b6e5122d292ceff748d8"
+        },
+        "anomalies/anomaly_cases.csv": {
+            "rows": 5,
+            "sha256": "15174d8f4e64153ff0b1f89b3ff3fbd419739c55de27d819d6e3720f9e011498"
+        },
+        "anomalies/detection_results.csv": {
+            "rows": 5,
+            "sha256": "b59552d5b588d0c71c76d9e880805a55758bebcbe1178a5484a8bc703a770cd4"
+        },
+        "anomalies/evaluation_input.csv": {
+            "rows": 8,
+            "sha256": "5a9d2d5662240810db65b992e12c2f12ebf5a90116bc4bc124722fec10e10b98"
+        },
+        "anomalies/evaluation_ground_truth.csv": {
+            "rows": 8,
+            "sha256": "f1487e538cbc516d445e604b1c24295b18df73e57e7f7919912887bd3cd95bda"
+        },
+        "anomalies/evaluation_predictions.csv": {
+            "rows": 8,
+            "sha256": "0dd6f8edbb786c161983319b0177957adc4426b68346f11b3bce63d483209b04"
+        }
+    },
+    "matching": true,
+    "failed_files": []
+}

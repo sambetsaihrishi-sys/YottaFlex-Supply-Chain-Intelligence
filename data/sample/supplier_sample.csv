@@ -1,0 +1,21 @@
+supplier_id,supplier_name,country,supplier_type,reliability_score,status
+SUP-0001,Supplier Company 1,United States,MANUFACTURER,0.972,ACTIVE
+SUP-0002,Supplier Company 2,Japan,WHOLESALER,0.898,ACTIVE
+SUP-0003,Supplier Company 3,Singapore,DISTRIBUTOR,0.945,ACTIVE
+SUP-0004,Supplier Company 4,Japan,WHOLESALER,0.736,ACTIVE
+SUP-0005,Supplier Company 5,India,WHOLESALER,0.722,ACTIVE
+SUP-0006,Supplier Company 6,South Korea,MANUFACTURER,0.927,ACTIVE
+SUP-0007,Supplier Company 7,Singapore,WHOLESALER,0.981,ACTIVE
+SUP-0008,Supplier Company 8,India,MANUFACTURER,0.888,ACTIVE
+SUP-0009,Supplier Company 9,Germany,MANUFACTURER,0.931,ACTIVE
+SUP-0010,Supplier Company 10,South Korea,WHOLESALER,0.753,ACTIVE
+SUP-0011,Supplier Company 11,Germany,WHOLESALER,0.983,ACTIVE
+SUP-0012,Supplier Company 12,South Korea,DISTRIBUTOR,0.953,ACTIVE
+SUP-0013,Supplier Company 13,China,MANUFACTURER,0.82,ACTIVE
+SUP-0014,Supplier Company 14,Japan,WHOLESALER,0.922,ACTIVE
+SUP-0015,Supplier Company 15,India,MANUFACTURER,0.971,ACTIVE
+SUP-0016,Supplier Company 16,South Korea,DISTRIBUTOR,0.901,ACTIVE
+SUP-0017,Supplier Company 17,United Kingdom,DISTRIBUTOR,0.986,ACTIVE
+SUP-0018,Supplier Company 18,Japan,MANUFACTURER,0.728,ACTIVE
+SUP-0019,Supplier Company 19,United Kingdom,WHOLESALER,0.733,ACTIVE
+SUP-0020,Supplier Company 20,China,MANUFACTURER,0.876,ACTIVE

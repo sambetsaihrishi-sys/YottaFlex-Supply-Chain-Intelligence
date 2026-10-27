@@ -1,0 +1,21 @@
+sku_id,sku_name,category,unit_of_measure,unit_cost,status
+SKU-000001,Electronics Product 1,Electronics,EA,121.62,ACTIVE
+SKU-000002,Electronics Product 2,Electronics,EA,1726.54,ACTIVE
+SKU-000003,Industrial Product 3,Industrial,EA,1510.93,ACTIVE
+SKU-000004,Furniture Product 4,Furniture,EA,2836.04,ACTIVE
+SKU-000005,Electronics Product 5,Electronics,EA,4640.24,ACTIVE
+SKU-000006,Automotive Product 6,Automotive,EA,1651.4,ACTIVE
+SKU-000007,Clothing Product 7,Clothing,EA,7855.99,ACTIVE
+SKU-000008,Furniture Product 8,Furniture,EA,746.03,ACTIVE
+SKU-000009,Furniture Product 9,Furniture,EA,7447.19,ACTIVE
+SKU-000010,Furniture Product 10,Furniture,EA,9905.14,ACTIVE
+SKU-000011,Automotive Product 11,Automotive,EA,3964.44,ACTIVE
+SKU-000012,Automotive Product 12,Automotive,EA,9299.1,ACTIVE
+SKU-000013,Electronics Product 13,Electronics,EA,1447.09,ACTIVE
+SKU-000014,Electronics Product 14,Electronics,EA,193.18,ACTIVE
+SKU-000015,Clothing Product 15,Clothing,EA,7721.41,ACTIVE
+SKU-000016,Industrial Product 16,Industrial,EA,6053.02,ACTIVE
+SKU-000017,Industrial Product 17,Industrial,EA,6836.14,ACTIVE
+SKU-000018,Furniture Product 18,Furniture,EA,2092.49,ACTIVE
+SKU-000019,Furniture Product 19,Furniture,EA,7107.84,ACTIVE
+SKU-000020,Clothing Product 20,Clothing,EA,6748.35,ACTIVE
